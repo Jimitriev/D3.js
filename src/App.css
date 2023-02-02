@@ -1,0 +1,21 @@
+body {
+  background-color: #000000cc;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-top: auto;
+}
+.App {
+  background-color: #000000;
+  border: 1px solid white;
+  display: inline-block;
+  margin-top: 30%;
+
+}
+.legendContainer {
+  display: flex;
+  justify-content: center;
+}
+.checkbox {
+  margin: 10px;
+}
